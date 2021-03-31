@@ -21,5 +21,9 @@ tape('cleanup', function (t) {
 })
 
 tape('user-agent', function (t) {
-  // TODO: user-agent endpoint
+  // TODO: user-agent endpoint 
+})
+
+tape('base64', function (t) {
+  // TODO: base64 endpoint 
 })
