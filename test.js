@@ -19,3 +19,7 @@ tape('cleanup', function (t) {
   server.close()
   t.end()
 })
+
+tape('user-agent', function (t) {
+  // TODO: user-agent endpoint
+})
